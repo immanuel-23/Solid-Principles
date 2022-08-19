@@ -1,0 +1,28 @@
+package com.aurionpro.model;
+
+public class Rectangle {
+	private double height;
+	private double weight;
+	
+	public double getHeigth() {
+		return height;
+	}
+	public double getWeight() {
+		return weight;
+	}
+	
+	public void setHeigth(double heigth) {
+		this.heigth = heigth;
+	}
+	public void setWeight(double weight) {
+		this.weight = weight;
+	}
+	public Rectangle(double heigth, double weight) {
+		super();
+		this.heigth = heigth;
+		this.weight = weight;
+	}
+	
+	
+
+}

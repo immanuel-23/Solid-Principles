@@ -1,0 +1,12 @@
+package com.aurionpro.model;
+
+public class Sqaure implements IShape{
+	private double side;
+
+	@Override
+	public double calculateArea() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

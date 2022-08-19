@@ -1,0 +1,8 @@
+package com.aurionpro.model;
+
+public class Rectangle {
+	private double heigth;
+	private double weight;
+	
+
+}

@@ -1,0 +1,32 @@
+package com.aurionpro.model;
+
+public class Manager implements IWorker,IEatable {
+
+	@Override
+	public void startWork() {
+		// TODO Auto-generated method stub
+		System.out.println("Manager is working");
+		
+	}
+
+	@Override
+	public void stopWork() {
+		// TODO Auto-generated method stub
+		System.out.println("Manger is stoped working");
+		
+	}
+
+	@Override
+	public void startEat() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void stopEat() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+}

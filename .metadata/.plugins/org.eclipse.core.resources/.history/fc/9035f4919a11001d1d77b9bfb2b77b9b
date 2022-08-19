@@ -1,0 +1,15 @@
+package com.aurionpro.model;
+
+public class Rectangle {
+	private double length;
+	private double weight;
+	
+	public double getLength() {
+		return length;
+	}
+	public double getWeight() {
+		return weight;
+	}
+	
+	
+}

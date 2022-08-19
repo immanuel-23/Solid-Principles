@@ -1,0 +1,13 @@
+package com.aurionpro.model;
+
+public class AccessModiferWithInPackage {
+	public static void main(String[] args) {
+		AccessModifer.privateData();
+		AccessModifer.publicData();
+		AccessModifer.defaultData();
+		AccessModifer.protectedData();
+		
+		// acccess modifer can be accessed with in same package but not the private one
+	}
+
+}

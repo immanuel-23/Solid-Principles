@@ -1,0 +1,19 @@
+package com.aurionpro.test;
+
+import com.aurionpro.model.IWorker;
+import com.aurionpro.model.Manager;
+
+public class ISPTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Manager manager = new Manager();
+		atTheWorkStation();
+	}
+
+	private static void atTheWorkStation(IWorker worker) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

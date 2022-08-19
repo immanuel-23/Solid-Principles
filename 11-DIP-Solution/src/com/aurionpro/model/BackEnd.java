@@ -1,0 +1,18 @@
+package com.aurionpro.model;
+
+public class BackEnd implements Developer {
+
+	@Override
+	public void develop() {
+		// TODO Auto-generated method stub
+		writeJava();
+
+	}
+
+	private void writeJava() {
+		// TODO Auto-generated method stub
+		System.out.println("I am java");
+		
+	}
+
+}

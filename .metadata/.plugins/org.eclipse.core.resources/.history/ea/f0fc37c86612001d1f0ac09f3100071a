@@ -1,0 +1,17 @@
+package com.aurionpro.test;
+
+public class VarArgsTest {
+	static int mul(int ...arg) {
+		int result=1;
+		for(int a:arg) {
+			result=result*a;
+		}
+		return result
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Multiplication of 2 number is "+mul(4,5));
+	}
+
+}

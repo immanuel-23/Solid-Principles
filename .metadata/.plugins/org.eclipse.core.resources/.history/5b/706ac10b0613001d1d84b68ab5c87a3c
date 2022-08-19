@@ -1,0 +1,17 @@
+package com.aurionpro.test;
+
+import com.aurionpro.model.BackEnd;
+import com.aurionpro.model.Developer;
+import com.aurionpro.model.FrontEndDeveloper;
+
+public class DeveloperTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Developer d1 = new BackEnd();
+		Developer d2 = new FrontEndDeveloper();
+
+
+	}
+
+}

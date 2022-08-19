@@ -1,0 +1,14 @@
+package com.aurionpro.test;
+
+public class VarArgsTest {
+	static int sum(int a,int b) {
+		return a+b;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Addition of 2 number is "+sum(4,5));
+
+	}
+
+}

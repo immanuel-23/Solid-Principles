@@ -1,0 +1,11 @@
+package com.aurionpro.model;
+
+public class AccessModiferWithInPackage {
+	public static void main(String[] args) {
+		AccessModifer.privateData();
+		AccessModifer.publicData();
+		AccessModifer.defaultData();
+		AccessModifer.protectedData();
+	}
+
+}

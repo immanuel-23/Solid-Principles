@@ -1,0 +1,8 @@
+package com.aurionpro.test;
+
+public class LSPTest {
+	public static void main(String args[]) {
+		Rectangle rect = new Rectangle (10,20);
+	}
+
+}

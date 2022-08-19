@@ -1,0 +1,25 @@
+package com.aurionpro.model;
+
+public class AccessModifer {
+	private static void  privateData() {
+		System.out.println("Inside private data");
+	}
+	public void publicData() {
+		System.out.println("Inside public data");
+	}
+	void defaultData() {
+		System.out.println("Inside default data");
+	}
+	protected void protectedData() {
+		System.out.println("Inside protected data");
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		privateData();
+		publicData();
+		defaultData();
+		protectedData();
+
+	}
+
+}

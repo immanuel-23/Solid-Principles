@@ -1,0 +1,14 @@
+package com.aurionpro.test;
+
+import com.aurionpro.model.TaxCalaculator;
+import com.aurionpro.model.logType;
+
+public class TaxTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		TaxCalculator t1=new TaxCalaculator(logType.DB) ;
+
+	}
+
+}

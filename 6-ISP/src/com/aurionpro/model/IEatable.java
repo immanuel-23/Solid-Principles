@@ -1,0 +1,7 @@
+package com.aurionpro.model;
+
+public interface IEatable {
+	public void startEat();
+	public void stopEat();
+
+}

@@ -1,0 +1,17 @@
+package com.aurionpro.model;
+
+public class FrontEndDeveloper implements Developer {
+
+	@Override
+	public void develop() {
+		// TODO Auto-generated method stub
+		writeJava();
+
+	}
+
+	private void writeJava() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+package com.aurionpro.model;
+
+public class Square  extends Rectangle {
+
+	public Square(double heigth, double weight) {
+		private double side;
+		super(heigth, weight);
+		// TODO Auto-generated constructor stub
+	}
+
+}

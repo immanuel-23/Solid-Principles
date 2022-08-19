@@ -1,0 +1,17 @@
+package com.aurionpro.test;
+
+public class DeveloperTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		BackEndDeveloper backEndDeveloper = new BackEndDeveloper();
+	    private FrontEndDeveloper frontEndDeveloper = new FrontEndDeveloper();
+
+	    public void implement() {
+
+	        backEndDeveloper.writeJava();
+	        frontEndDeveloper.writeJavascript();
+	    }
+	}
+
+}

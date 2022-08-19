@@ -1,0 +1,26 @@
+package com.aurionpro.model;
+
+public class Square  extends Rectangle {
+	private double side;
+
+	public Square(double heigth) {
+		super(heigth ,heigth);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void setHeigth(double heigth) {
+		// TODO Auto-generated method stub
+		super.setHeigth(heigth);
+		super.setWeight(heigth);
+
+	}
+
+	@Override
+	public void setWeight(double weight) {
+		// TODO Auto-generated method stub
+		super.setWeight(weight);
+	}
+	
+
+}

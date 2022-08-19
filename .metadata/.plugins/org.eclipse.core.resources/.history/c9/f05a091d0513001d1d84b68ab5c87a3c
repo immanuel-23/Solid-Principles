@@ -1,0 +1,18 @@
+package com.aurionpro.test;
+
+import com.aurionpro.model.BackEndDeveloper;
+import com.aurionpro.model.FrontEndDeveloper;
+
+public class DeveloperTest {
+
+	// TODO Auto-generated method stub
+	BackEndDeveloper backEndDeveloper = new BackEndDeveloper();
+	FrontEndDeveloper frontEndDeveloper = new FrontEndDeveloper();
+
+	public void implement() {
+
+        backEndDeveloper.writeJava();
+        frontEndDeveloper.writeJavascript();
+
+}
+}

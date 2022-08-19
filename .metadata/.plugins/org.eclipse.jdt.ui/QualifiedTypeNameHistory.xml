@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.aurionpro.model.Square"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Rectangle"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Sqaure"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Manager"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Robot"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.IWorker"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.AccessModifer"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.BackEndDeveloper"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.BackEnd"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.Developer"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.FrontEndDeveloper"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.logType"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.TaxCalaculator"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.DbLogger"/>
+<fullyQualifiedTypeName name="com.aurionpro.model.FileLogger"/>
+</qualifiedTypeNameHistroy>

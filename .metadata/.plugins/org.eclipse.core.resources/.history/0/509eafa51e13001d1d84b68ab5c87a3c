@@ -1,0 +1,8 @@
+package com.aurionpro.model;
+
+public class TaxCalculator {
+	public calculateTax(int amount, int rate) {
+		
+	}
+
+}

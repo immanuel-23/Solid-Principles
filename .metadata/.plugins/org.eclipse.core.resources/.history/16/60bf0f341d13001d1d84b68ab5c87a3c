@@ -1,0 +1,21 @@
+package com.aurionpro.model;
+
+public class TaxCalculator {
+	logType logger;
+
+	public TaxCalculator(logType logger) {
+		super();
+		this.logger = logger;
+	}
+	public double calculateTax(int ammount ,int rate){
+		double tax;
+		try {
+			tax=ammount/rate;
+		}catch{
+			
+		}
+		
+		return 6.7;
+	}
+
+}
